@@ -1,6 +1,6 @@
 
 # part 1
-with open("D:\PythonProjekty\Szkolenie\Avent of Code\\file2.txt", "r") as f:
+with open("<your path>", "r") as f:
     rounds = [i.replace(" ", "") for i in f.read().strip().split("\n")]
     wynik = 0
     for round in rounds:
@@ -11,7 +11,7 @@ with open("D:\PythonProjekty\Szkolenie\Avent of Code\\file2.txt", "r") as f:
         elif round[1] == 'Z': wynik += 3
     print(wynik)
 # part 2
-with open("D:\PythonProjekty\Szkolenie\Avent of Code\\file2.txt", "r") as f:
+with open(("<your path>", "r") as f:
     rounds = [i.replace(" ", "") for i in f.read().strip().split("\n")]
     wynik = 0
     for round in rounds:
