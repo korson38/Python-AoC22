@@ -1,6 +1,6 @@
 
 # getting the data
-with open("D:\PythonProjekty\Szkolenie\Avent of Code\\file.txt", "r") as f:
+with open("<your path>", "r") as f:
     lista_kcal = []
     x = 0
 # iterating through the data
