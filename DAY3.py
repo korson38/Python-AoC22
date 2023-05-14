@@ -2,7 +2,7 @@ from string import ascii_letters
 
 
 # getting the data from file
-with open("D:\PythonProjekty\Szkolenie\Avent of Code\\file3.txt", "r") as f:
+with open("<your path>", "r") as f:
     plecaki = [i.strip() for i in f.readlines()]
     cs = []
     w = []
