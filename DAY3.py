@@ -1,6 +1,5 @@
 from string import ascii_letters
 
-
 # getting the data from file
 with open("<your path>", "r") as f:
     plecaki = [i.strip() for i in f.readlines()]
