@@ -1,5 +1,5 @@
 # preparing data
-with open("D:\PythonProjekty\Szkolenie\Avent of Code\\file4.txt")as f:
+with open(<your path>)as f:
     counter = 0
 # iterating through the lines
     for line in f:
