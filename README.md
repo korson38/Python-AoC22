@@ -1,2 +1,2 @@
-# Python-AoC22
+# Python-Advent Of Code 22
 # My solutions for given tasks
