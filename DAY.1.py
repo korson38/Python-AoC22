@@ -1,5 +1,5 @@
 
-# getting the data
+# getting the data 
 with open("<your path>", "r") as f:
     lista_kcal = []
     x = 0
