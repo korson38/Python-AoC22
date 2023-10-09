@@ -1,4 +1,4 @@
-
+# Pytho advent of code day 1
 # getting  the data 
 with open("<your path>", "r") as f:
     lista_kcal = []
